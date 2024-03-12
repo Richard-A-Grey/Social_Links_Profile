@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.profile-image-container img{
+    width: 20%;
+}
